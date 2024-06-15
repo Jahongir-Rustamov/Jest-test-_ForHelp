@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Auto tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "jest",
+    "node.js",
+    "mongodb",
+    "express.js"
+  ],
+  "author": "Jakhongir Rustamov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
